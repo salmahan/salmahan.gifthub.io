@@ -1,2 +1,2 @@
-# salmahan.gifthub.io
+# salmahan.github.io
 Myday Store
